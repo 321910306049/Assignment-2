@@ -5,7 +5,7 @@
     "colab": {
       "name": "Untitled3.ipynb",
       "provenance": [],
-      "authorship_tag": "ABX9TyPatSyY3rzBQl6H3fJ6XAXK",
+      "authorship_tag": "ABX9TyPFaY7DAYdn2zFj+/c5oV7M",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -201,19 +201,6 @@
           "name": "stdout"
         }
       ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "DxsOYaQ60jnN",
-        "colab_type": "code",
-        "colab": {}
-      },
-      "source": [
-        ""
-      ],
-      "execution_count": null,
-      "outputs": []
     }
   ]
 }
